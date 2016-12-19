@@ -1,0 +1,9 @@
+#aboutprofile{ height: 395px;
+                width: 395px;
+} 
+body{
+      text-align: center;
+      background: url("../images/mtv.png");
+      background-size: cover;
+      color: pink;
+}
